@@ -1,0 +1,6 @@
+{
+  "name": "ทวีผล Track",
+  "description": "ระบบติดตามงานพนักงานขาย บันทึกการลงพื้นที่ เช็คอินเข้า-ออกงาน GPS GeniusTracks และเชื่อมต่อ Google Sheets บริษัท United development CO.,LTD",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
